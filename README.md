@@ -12,3 +12,6 @@ Mathematical theory of perspective projection, and camera calibration. Used SIFT
 
 ## HW4
 Image classification with Bag of Sift Features, Nearest Neighbor Classifiers, one-vs-all SVMs.
+
+## HW5
+Deep learning with Convolutional Neural Networks (CNNs) from the beginning and fine-tuning existing CNN for SVM transfer learning.
